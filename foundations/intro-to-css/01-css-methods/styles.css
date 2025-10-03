@@ -1,0 +1,17 @@
+/* styles.css */
+
+div {
+  color: white;
+  background-color: red;
+  font-weight: bold;
+  text-align: center;
+  font-size: 32px;
+}
+
+p {
+  color: red;
+}
+
+button {
+    
+}
